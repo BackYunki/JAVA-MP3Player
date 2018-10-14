@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Referenced Libraries"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Referenced Library"/>
+	<classpathentry kind="lib" path="C:/Users/yunki/Downloads/ood_2014f_final_team_03/ood_2014f_final_src_team_03/lib/javazoom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yunki/Downloads/ood_2014f_final_team_03/ood_2014f_final_src_team_03/lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yunki/Downloads/ood_2014f_final_team_03/ood_2014f_final_src_team_03/lib/jlgui2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yunki/Downloads/ood_2014f_final_team_03/ood_2014f_final_src_team_03/lib/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/yunki/Downloads/ood_2014f_final_team_03/ood_2014f_final_src_team_03/lib/tritonus_share-0.3.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
